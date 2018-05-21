@@ -9,7 +9,7 @@
     "pug": "nodemon ./pug.js ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ivashchenko a.",
+  "author": "Serg",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^4.11.0",
