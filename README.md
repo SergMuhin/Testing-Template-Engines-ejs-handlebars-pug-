@@ -1,6 +1,10 @@
-# Node course (code examples)
+# Testing template engines
 
 ### Templates (Express example)
+
+```
+npm i
+```
 
 #### Ejs
 ```
